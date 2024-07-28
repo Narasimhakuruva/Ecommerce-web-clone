@@ -1,0 +1,323 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.logo{
+    height: 90px;
+    width: 200px;
+}
+#navbarelements{
+    font-weight: 500;
+    color: dark;
+}
+#navbarelements1{
+    font-weight: 500;
+    color: dark;
+}
+#navbarelements2{
+    font-weight: 500;
+    color: dark;
+}
+#navbarelements3{
+    font-weight: 500;
+    color: dark;
+}
+#navbarelements4{
+    color: dark;
+ 
+    font-weight: 500;
+}
+#navbarelements5{
+    color: dark;
+ 
+    font-weight: 500;
+}
+
+
+.ourservice-bg-container{
+    background-color: white;
+
+}
+.oursection-heading{
+    color: #183b56;
+    font-size: 40px;
+    font-weight: 600;
+}
+.oursection-descrption{
+    color: #616c7c;
+    font-size: 20px;
+
+}
+.card-container{
+    background-color: white;
+
+}
+.image-logo{
+    height: 90px;
+    width: 90px;
+}
+.card-container-heading{
+    color: #1f2933;
+    font-size: 25px;
+
+}
+.card-container-des{
+    color: #7b8794;
+    font-size: 15px;
+
+}
+.product-container{
+    background-color: white;
+}
+.product-container-heading{
+    font-size: 30px;
+    color: #183b56;
+    font-weight: 600;
+
+}
+.product-card{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    border-radius: 15px;
+    height: 50vh;
+    background-size: cover;
+    
+    
+
+}
+
+.product-card1{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    border-radius: 15px;
+    height: 50vh;
+    background-size: cover;
+    
+    
+
+}
+.product-card-heading{
+    font-size: 40px;
+    color: white;
+    font-weight: 600;
+}
+.product-card-des{
+    font-size: 20px;
+    color: white;
+}
+.proudct-card-button{
+    color: #ff9f00;
+    border-radius: 15px;
+    height: 50px;
+    width: 120px;
+    background-color: white;
+    border-width: 0px;
+}
+.modal-title{
+    color: #133045;
+    font-size: px;
+}
+.model-heading{
+    font-size: 20px;
+    color: #3e5163;
+}
+.span{
+    color:  #112d42;
+    font-size: 25px;
+    font-weight: 600;
+}
+.button-model{
+    background: transparent;
+    border-radius: 3px;
+    border-width: 1px;
+    color: #323f4b;
+    border-color:  #323f4b;
+    height: 40px;
+    width: 120px;
+
+
+}
+.offer-container{
+    
+    background-image: linear-gradient(to right, #f49541,#dd5d97);
+}
+.offer-pic{
+    height: 400px;
+    width: 400px;
+}
+.items-image{
+    height: 300px;
+    width: 500px;
+}
+.product-year-heading{
+    color: #ad2167;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Futara;
+}
+.offer-des{
+    color: white;
+    font-size: 20px;
+
+}
+.offer-span{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+.dicount-heading{
+    font-size: 25px;
+    font-family: italic;
+    color: white;
+    font-weight: 600;
+
+}
+.discount-span{
+    color: yellow;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+.credit-card{
+    color: white;
+    font-size: 10px;
+    font-weight: 500;
+
+}
+.sbi-image{
+    height: 100px;
+    width: 300px;
+}
+.offer-pic2{
+    height: 110px;
+    width: 140x;
+}
+
+.trending-container{
+    background-color: white;
+}
+.trending-heading{
+    color: #183b56;
+    font-size: 45px;
+    font-weight: 700;
+}
+.trending-card{
+    background-color: white;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+
+}
+.trending-card-heading1{
+    color: #959ead;
+    font-size: 20px;
+
+}
+.trending-card-heading2{
+    color: #183b56;
+    font-size: 32px;
+    font-weight: 700;
+
+}
+.trending-card-desc{
+    color: #959ead;
+    font-size: 26px;
+}
+.read-head{
+    color: #ff9f00;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.explore-offer-container{
+    background-color: #f5f7fa;
+}
+.explore-offer-heading{
+    color: #183b56;
+    font-size: 40px;
+    font-weight: 700;
+}
+.electronics-card{
+background-color: white;
+border-radius: 6px;
+}
+.electronic-card-heading{
+color: #183b56;
+font-size: 30px;
+font-weight: 600;
+
+}
+.electronic-imagee{
+  height: 130px;
+  width: 160px;
+  border-radius: 15px;
+}
+.image-heading{
+color: #1f2933;
+font-size: 23px;
+}
+.seedetails{
+    color: #ff9f00;
+    font-size: 20px;
+
+    }
+    .electronic-imagee2{
+        border-radius: 10px;
+    }
+    .contactus-container{
+        background-color:  #f5f7fa;
+
+    }
+    .contact-heading{
+     color: #183b56;
+     font-size: 40PX;
+     font-weight: 700;
+    }
+.contact-button{
+  height: 60PX;
+  width: 180PX;
+  border-color: #ff9f00;
+  color: #ff9f00;
+  background-color: transparent;
+  border-width: 3PX;
+  border-style: bold;
+  font-size: 25px;
+  font-weight: 600;
+
+}
+.ecommerce-footer-container{
+    background-color: #0d2436;
+}
+
+.footer-bg-container{
+    background-color: #19232d;
+
+}
+.image-vr{
+    height: 60px;
+    width: 120px;
+}
+.icon-bg{
+    background-color: #202b36;
+    padding: 15px;
+    width: 50px;
+    border-radius: 40px;
+}
+.icon{
+    color: #959ead;
+    font-size: 20px;
+}
+.adderess{
+    font-size: 20px;
+    color: #959ead;
+}
+.line{
+    color: #959ead;
+    border-style: solid;
+    border-color: #959ead;
+}
+.footer-heading{
+    font-size: 25px;
+    color: #959ead;
+    font-weight: 600;
+}
+.footer-details{
+    font-size: 20px;
+    color: #959ead;
+    font-weight: 00;
+}
